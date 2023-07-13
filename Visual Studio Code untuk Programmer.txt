@@ -1,0 +1,31 @@
+Visual Studio Code untuk Programmer PHP
+1. Menghilangkan Open Editor
+   => 	- Buka settings Ctrl+,
+	- Cari Open editor visible ubah angka 9 ke 0
+2. Menghilangkan Minimap
+   =>	- Buka settings Ctrl+,
+	- cari minimap lalu hilangkan centangnya
+3. Mengubah ukuran font
+   =>	- Buka settings Ctrl+,
+	- cari font size lalu ubah ke 20/22
+	- line height ubah ke 40
+4. Mengganti Tema
+   =>	- Buka ekstensi cari one dark pro/ Material theme
+	- cari tema sesuai selera
+5. Mengubah Font
+   =>	- Buka settings Ctrl+,
+	- cari font default (consolas)
+	- cari font di google source code pro
+	- klik select this font
+	- download lalu extrak
+	- block semua font lalu klik kanan lalu instal, yes
+	- kembali ke vs code tambahin nama font Source Code Pro setelah consolas
+	- atau bisa menggunakan fira code lalu centang font ligatures
+6. Menghafal shortcut di vs code
+   => 	- https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+7. Cara mengganti terminal powershell ke git di vs code
+   =>	- ctrl+shift+p lalu ketik select default shell-klik
+	- lalu pilih git bash - di terminal klik tambah setelah itu berubah ke terminal git bash
+8. Install PHP Intelephense
+   =>	- stelah mengintal - buka settings lalu ketik php
+	- matikan php, suggest: basic
