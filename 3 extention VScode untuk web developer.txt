@@ -1,0 +1,28 @@
+3 extention VScode untuk web developer
+
+1. Theme Mayukai
+   yang digunakan Mayukai mirage
+
+2. font menggunakan hack/source code pro/fira code
+
+3. cursor
+   cari cursor blinking di setting -> pilih expand
+
+4. extensi live preview => untuk melakukan preview project kita langsung di dalam vscode
+
+5. extention peacock => untuk memberikan tanda pada workspace kita
+   - buka command pallet -> ctrl+shift+p
+   - ketik peacock change to a faforite color
+   - pilih warna untuk membedakan dengan project lainnya
+
+   - untuk mengembalikan
+   - ketik peacock remove all global and workspace colors
+
+6. quokkajs => untuk melihat nilai /console langsung ke dalam vscode jadi tidak perlu menggunakan console dari chrome
+   - masuk ke nodejs.org lalu instal
+   - instal quokka di vscode
+   - ctrl+shift+p -> ketik quokka start on current file
+   - untuk selengkapnya buka dokumentasi di quokkajs.com/pro/
+
+7. extention code snapp => untuk screenshot code
+
